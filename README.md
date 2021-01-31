@@ -33,7 +33,7 @@ Available advanced settings:
 Successfully added resource apirestcupa4ff1c8e locally.
 
 Next steps:
-Check out sample function code generated in <project-dir>/amplify/backend/function/apirestcupa4ff1c8e/src
+Check out sample function code generated in <project-dir>/amplify/backend/function/apirestcupa123/src
 "amplify function build" builds all of your functions currently in the project
 "amplify mock function <functionName>" runs your function locally
 "amplify push" builds all of your local backend resources and provisions them in the cloud
@@ -45,7 +45,7 @@ Succesfully added the Lambda function locally
 ? What kind of access do you want for Guest users? create, read, update, delete
 Successfully added auth resource locally.
 ? Do you want to add another path? No
-Successfully added resource api206480ec locally
+Successfully added resource api2123 locally
 
 Some next steps:
 "amplify push" will build all your local backend resources and provision it in the cloud
