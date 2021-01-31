@@ -21,4 +21,4 @@ amplifytools.xcconfig
 amplify
 .vscode
 Pods
-
+generated-src
